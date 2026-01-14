@@ -11,7 +11,9 @@ This creates:
 
 #### 2. Open and copy your SSH key
 Mac: `cat ~/.ssh/id_ed25519_new_account.pub | pbcopy`
+
 Windows: `cat ~/.ssh/id_ed25519_new_account.pub | clip`
+
 
 You can also simply open the key and using Ctrl/Cmd+C to copy the key:
 `cat ~/.ssh/id_ed25519_new_account.pub`
